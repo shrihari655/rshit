@@ -1,0 +1,28 @@
+.card-title
+{
+font-family: cursive;
+font-size:50px;
+	font-family: cursive;
+	background-color: red;
+	
+
+}
+.card-body
+{
+
+	font-family: cursive;
+font-size:50px;
+	font-family: cursive;
+ }
+.card-text
+{
+
+	font-family: 'Abril Fatface', serif;
+	font-size:35px;
+	color: black !important;
+}
+body{
+	 background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+}

@@ -1,0 +1,62 @@
+.navbar{
+	
+	
+	color: green !important;
+
+
+}
+
+body{
+	background-image: url(jjjh.jpg);
+}
+
+.navbar-brand{
+	font-size: 28px;
+	font-weight: bold;
+	color: white !important;
+	font-family: cursive;
+
+}
+
+.navbar .navbar-nav li a{
+	font-family: cursive;
+	font-size:18px;
+	color:white !important;
+	
+}
+
+.navbar .navbar-nav li a:hover{
+	font-family: cursive;
+	
+font-size:18px;
+	color:red !important;
+	
+}
+
+
+ .jumbotron
+ {
+background: linear-gradient(to right, #ee9ca7, #ffdde1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: cursive;
+
+ }
+
+ img{
+ 	
+ 	border-radius: 2000px;
+ 	border: 5px solid red;
+
+ }
+
+
+ .btn btn-primary
+ {
+
+ font-family: cursive;
+
+ }
+
+ #bb
+ {
+ color:black;
+ }
